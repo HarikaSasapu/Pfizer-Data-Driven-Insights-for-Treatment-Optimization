@@ -60,19 +60,4 @@ The dataset used for this analysis is titled **Pfizer’s Personalized Medicine.
 - **Excel and Pivot Table**: Data cleaning, basic analysis, and visualization.
 - **Power BI**: Advanced data visualization to create interactive dashboards.
 
-## Future Work
-- Expand the analysis to include predictive modeling for treatment outcomes.
-- Integrate machine learning techniques to identify deeper correlations in genomic data.
-- Enhance visual reporting with more dynamic dashboard features.
-
-## Connect with the Project Lead
-**Ravi Kumar**  
-[LinkedIn Profile](https://www.linkedin.com/in/ravi-kumar-28a905256)
-
-## Dashboard Snapshot
-![image](https://github.com/user-attachments/assets/ac478672-bf34-4fae-a9bf-cdb8e8a450f0)
-
-![image](https://github.com/user-attachments/assets/d78cf53d-eded-4a4d-941e-f8811554e241)
-
-![image](https://github.com/user-attachments/assets/26612395-9e9f-4e78-9d08-55b2b03c917b)
-
+#
